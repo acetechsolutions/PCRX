@@ -11,7 +11,6 @@
 <link rel="stylesheet" type="text/css" href="css/style2.css">
 <link href="font-awesome-4.7.0/css/font-awesome.css" rel="stylesheet"> 
 <link rel="stylesheet" href="./css/bootstrap.min.css">
-<link rel="stylesheet" href="./css/bootstrap2.min.css">
 <link rel = "shortcut icon"  href = "./images/logo.png" />
 </head>
 <body>

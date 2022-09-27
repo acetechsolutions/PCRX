@@ -69,7 +69,7 @@ $lastInsertId = $dbh->lastInsertId();
 if($lastInsertId)
 {
 echo "<script type='text/javascript'>alert('Registration Sucessfull!');</script>";
-echo "<script type='text/javascript'> document.location = '../index.php'; </script>";
+echo "<script type='text/javascript'> document.location = '../PCRX/index.php'; </script>";
 }
 else 
 {

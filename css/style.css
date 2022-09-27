@@ -7,13 +7,15 @@
 	scroll-behavior: smooth;
   
 }  
-
+/*main content*/
  .container {
 	width:80%;
 	margin:auto;
 	overflow:hidden;
 	
 }
+/*main content*/
+
 /* Header **/
 header {
 	
@@ -194,7 +196,5 @@ background-color:orange;
  display: inline-block;
  transform: rotate(135deg); 	
 }
-
-
 
 
